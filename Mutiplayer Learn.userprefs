@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5666278F-683C-9CF3-F2A5-1884C8ECE84A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Health.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="43" Column="37" />
+      <File FileName="Assets/Bullet.cs" Line="6" Column="5" />
+      <File FileName="Assets/Health.cs" Line="8" Column="1" />
+      <File FileName="Assets/BillBoard.cs" Line="10" Column="54" />
+      <File FileName="Assets/EnemySpawner.cs" Line="26" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mutiplayer_220Learn PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
